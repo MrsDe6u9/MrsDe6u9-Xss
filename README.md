@@ -11,7 +11,7 @@ Multithreaded scanning for speed (up to 10 threads).
 
 🛠️ Installation
 # 1. Clone the repository
-git clone https://github.com/MrDe6u9/MrDe6u9-Xss.git
+git clone https://github.com/MrsDe6u9/MrDe6u9-Xss.git
 
 # 2. Change directory
 cd MrDe6u9-Xss
