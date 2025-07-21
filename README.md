@@ -14,7 +14,7 @@
 git clone https://github.com/MrsDe6u9/MrsDe6u9-Xss.git
 
 # 2. Change directory
-cd MrDe6u9-Xss
+cd MrsDe6u9-Xss
 
 # 3. Install dependencies
 pip3 install -r requirements.txt
