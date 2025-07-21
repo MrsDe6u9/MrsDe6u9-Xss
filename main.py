@@ -31,7 +31,7 @@ class Main:
 
         
                             #Take a Coffee break and chill                                                      
-                            #Author: Adarsh Ramgirwar
+                            #Author: Rutuja sable
         """ + Fore.WHITE)
 
     def read(self,filename):
