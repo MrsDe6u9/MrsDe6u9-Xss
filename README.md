@@ -17,7 +17,9 @@ git clone https://github.com/MrsDe6u9/MrsDe6u9-Xss.git
 cd MrsDe6u9-Xss
 
 # 3. Install dependencies
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt OR 
+apt install                     
+    python3-requirements.txt
 
 To add payload:
 
